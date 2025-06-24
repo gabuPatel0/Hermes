@@ -46,5 +46,5 @@ Hermes is a comprehensive Android-based travel assistant app that simplifies tri
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-repo/hermes-travel-assistant.git
-cd hermes-travel-assistant
+git clone https:https://github.com/gabuPatel0/Hermes.git
+cd Hermes
